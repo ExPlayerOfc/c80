@@ -1,0 +1,29 @@
+#botao_enviar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#botao_organizar {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#mostrar_com_virgula {
+    border: 1px solid;
+    padding: 10px;
+    background-color: blue;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#mostrar_sem_virgula {
+    border: 1px solid;
+    padding: 10px;
+    background-color: rgba(36, 161, 11, 0.808);
+    border-radius: 10px;
+    width: 50%;
+}
+input {
+    margin: 10px;
+}
